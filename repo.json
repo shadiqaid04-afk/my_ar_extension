@@ -4,6 +4,6 @@
   "iconUrl": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/icon.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://github.com/shadiqaid04-afk/my_ar_extension/blob/main/repo.json"
+    "https://github.com/shadiqaid04-afk/my_ar_extension/blob/main/plugins.json"
   ]
 }
