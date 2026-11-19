@@ -1,0 +1,9 @@
+{
+  "name": "3rabi عربي - Kototoro",
+  "description": "Arabic movies and series extensions",
+  "iconUrl": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/icon.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR_USERNAME/3rabi-kototoro/main/plugins.json"
+  ]
+}
